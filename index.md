@@ -9,7 +9,7 @@
       <p><b>邮箱：zhuzifa123@126.com</b></p>
       <p><b>地址：四川省成都市双流区光电大道光电技术研究所</b></p>
     </td>
-    <td width="125%">
+    <td width="5%">
       <img src="/profile picture.jpg" width="110%">
     </td>
   </tr>
