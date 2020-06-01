@@ -8,6 +8,7 @@
       <p><b>中国科学院光电技术研究所</b></p>
       <p><b>邮箱：zhuzifa123@126.com</b></p>
       <p><b>地址：四川省成都市双流区光电大道光电技术研究所</b></p>
+      <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
       <img src="/profile picture.jpg" width="115%">
