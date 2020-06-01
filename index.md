@@ -10,7 +10,7 @@
       <p><b>地址：四川省成都市双流区光电大道光电技术研究所</b></p>
     </td>
     <td width="25%">
-      <img src="/selife picture.jpg" width="100%">      % 插入证件照代码
+      <img src="/profile picture.jpg" width="100%">
     </td>
   </tr>
 </table>
